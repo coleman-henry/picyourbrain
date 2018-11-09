@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="app_name">Pic Your Brain</string>
+    <string name="action_new_prompt">New Prompt</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+
+    <string-array name="subjects">
+        <item>A Cat</item>
+        <item>A Little Old Woman</item>
+        <item>An Elephant</item>
+        <item>A Car</item>
+        <item>A Hog</item>
+        <item>A Pillow</item>
+        <item>Noodles</item>
+        <item>A Bowl of Fruit</item>
+        <item>God</item>
+        <item>A Monster</item>
+        <item>An Ape</item>
+        <item>An Artist</item>
+        <item>A Boss</item>
+        <item>A Banana</item>
+        <item>An Astronaut</item>
+        <item>A Book</item>
+        <item>Poop</item>
+        <item>A Dude</item>
+        <item>A Mad Scientist</item>
+        <item>An Ogre</item>
+        <item>Cheese</item>
+        <item>An Eyeball</item>
+        <item>A Dinosaur</item>
+        <item>A Backpacker</item>
+        <item>A Nose</item>
+        <item>A Thief</item>
+        <item>A Pickle</item>
+        <item>A Musician</item>
+        <item>An Aristocrat</item>
+        <item>A Robot</item>
+        <item>A Garbage Can</item>
+        <item>A Brain</item>
+        <item>A Tasty Treat</item>
+        <item>A Fish</item>
+        <item>A Nun</item>
+        <item>A Chef</item>
+        <item>A Toaster</item>
+        <item>A Weapon</item>
+        <item>Something Unexpected</item>
+        <item>A Dragon</item>
+        <item>A Calculator</item>
+        <item>An Insect</item>
+        <item>A Tank</item>
+        <item>A Spy</item>
+        <item>A Cheerleading Squad</item>
+        <item>A Horse</item>
+        <item>A Bird</item>
+        <item>A Potato</item>
+        <item>A Rocket</item>
+        <item>An Octopus</item>
+        <item>A Thief</item>
+        <item>A Boat</item>
+        <item>A Mouse</item>
+        <item>An Angel</item>
+        <item>A Clown</item>
+        <item>A Knight</item>
+        <item>A Swarm of Bees</item>
+        <item>A Monk</item>
+        <item>A Bomb</item>
+        <item>A Villain</item>
+        <item>A Spider</item>
+        <item>Something Outdated</item>
+        <item>A Bad Apple</item>
+        <item>A Skeleton</item>
+        <item>A Mushroom</item>
+        <item>A Lawn Gnome</item>
+    </string-array>
+
+    <string-array name="situations">
+        <item>Only a Mother Could Love</item>
+        <item>Saves the Day</item>
+        <item>Getting Spruced Up</item>
+        <item>Doing Finger Guns</item>
+        <item>At Church</item>
+        <item>Flying Away</item>
+        <item>Fight</item>
+        <item>Dancing</item>
+        <item>On the Fritz</item>
+        <item>In the Nude</item>
+        <item>At Large</item>
+        <item>All Geared Up</item>
+        <item>Giving a Speech</item>
+        <item>Showing Off</item>
+        <item>Throwing a Party</item>
+        <item>Scheming</item>
+        <item>Falling Apart</item>
+        <item>Surprising Everyone</item>
+        <item>Making a Mess</item>
+        <item>Getting Loaded</item>
+        <item>Having a Bad Hair Day</item>
+        <item>Feeling Bad</item>
+        <item>On the Road</item>
+        <item>in Shining Armor</item>
+        <item>Doing Science</item>
+        <item>Getting Paid</item>
+        <item>Getting Sucked Up</item>
+        <item>At Prom</item>
+        <item>On a Pizza</item>
+        <item>Taking a Shower</item>
+        <item>Going Wild</item>
+        <item>Club</item>
+        <item>in Training</item>
+        <item>Making Sushi</item>
+        <item>Machine</item>
+        <item>Taming a Lion</item>
+        <item>Full of Chickens</item>
+        <item>Sneaking Around</item>
+        <item>in a Boat</item>
+        <item>as President</item>
+        <item>With a Pumpkin Head</item>
+        <item>Amusement Park</item>
+        <item>Baking a Cake</item>
+        <item>Getting Tricked</item>
+        <item>Bowling</item>
+        <item>Falling Down</item>
+        <item>On Wheels</item>
+        <item>Detective</item>
+        <item>Doctor</item>
+        <item>Smoking Weed</item>
+        <item>On a Stick</item>
+        <item>Learning a Lesson</item>
+        <item>Selling Something</item>
+        <item>Stealing the Show</item>
+        <item>Spreading the Good Word</item>
+        <item>at the Bar</item>
+        <item>Trap</item>
+        <item>Ghost</item>
+        <item>On Ice</item>
+        <item>Wearing a Funny Hat</item>
+        <item>Enthusiast</item>
+        <item>in a Panic</item>
+        <item>in a Can</item>
+        <item>Running for Dear Life</item>
+        <item>Dancing</item>
+        <item>Being Extreme</item>
+        <item>Cleaning House</item>
+        <item>In a Fight</item>
+        <item>Decorated Festively</item>
+        <item>Propaganda Piece</item>
+        <item>Breaking the Law</item>
+        <item>Pulling a Prank</item>
+        <item>at the Pool</item>
+        <item>Tragedy</item>
+        <item>Having a Good Time</item>
+        <item>Escaping</item>
+        <item>Surfing</item>
+        <item>With a Crazy Idea</item>
+        <item>Knock-Off</item>
+    </string-array>
+
+</resources>
