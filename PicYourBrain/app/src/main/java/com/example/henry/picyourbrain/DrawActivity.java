@@ -139,6 +139,9 @@ public class DrawActivity extends AppCompatActivity
         mPromptTextView.setText(prompt);
     }
 
+    //TODO: Replace the Eraser with an undo button
+    //TODO: Fix Saving so that the title is the prompt and the date is correct, and a copy goes to a folder belonging to the app
+    //TODO: connect to FireBase to store and serve drawings for the gallery
 
     @Override
     public void onClick(View view) {
