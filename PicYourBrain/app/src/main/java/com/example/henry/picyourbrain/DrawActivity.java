@@ -8,6 +8,7 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.NavUtils;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -117,8 +118,13 @@ public class DrawActivity extends AppCompatActivity
          * */
         if (itemId == R.id.action_get_prompt) {
             createNewPrompt();
+            return true;
         }
-        return true;
+        else if(itemId == android.R.id.home){
+            NavUtils.navigateUpFromSameTask(this);
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     private void createNewPrompt() {
