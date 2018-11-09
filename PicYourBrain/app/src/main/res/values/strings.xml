@@ -13,6 +13,9 @@
     <string name="sml">Small</string>
     <string name="med">Medium</string>
     <string name="lrg">Large</string>
+    <string name="label_start_draw_activity">Draw Something</string>
+    <string name="label_start_gallery_activity">Gallery</string>
+    <string name="label_show_about">About</string>
 
 
     <string-array name="subjects">
